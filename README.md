@@ -1,1 +1,1 @@
-# Brain-Tumor-Detection
+In this project,a sequential model is constructed by sequentially incorporating layers to identify the presence of a brain tumor in MRI images.The VGG-16 architecture serves as the foundational model,augmented with additional layers such as flatten,dropout and dense layers.This combined architecture aims to effectively detect the presence or absence of a brain tumor in Brain MRI images.
